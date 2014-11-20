@@ -1,0 +1,97 @@
+﻿Build started 2014/11/16 23:19:23.
+     1>Project "D:\curriculum\TSP_troisimeAnnee\JIN\OpenGL\ProjetOpenGL_SiqunPAN\PROJET JEU Empty\projet\jeu3d.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\sources\main.cpp
+         main.cpp
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(64): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(166): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(170): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(177): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(181): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(188): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(192): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(290): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(291): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(329): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(330): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(390): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(391): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(703): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(779): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(780): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(797): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(798): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(799): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(800): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(819): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(820): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(821): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(822): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(898): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(899): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(905): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(906): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(911): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(912): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(916): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(917): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(921): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(923): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(925): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(927): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(937): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(938): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(942): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(943): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(951): warning C4018: '<=' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(956): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(959): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(970): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(978): warning C4018: '<=' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(983): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(996): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1004): warning C4018: '<=' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1009): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1018): warning C4018: '<=' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1023): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1032): warning C4018: '<=' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1037): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1051): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1102): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1103): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1129): warning C4018: '<=' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1130): warning C4018: '<=' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1147): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1148): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1174): warning C4018: '<=' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1175): warning C4018: '<=' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1186): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1188): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1192): warning C4018: '<=' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1202): warning C4018: '<=' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1215): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1216): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1220): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1235): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1237): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1245): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1247): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1257): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\curriculum\tsp_troisimeannee\jin\opengl\projetopengl_siqunpan\projet jeu empty\sources\main.cpp(1145): warning C4101: 'mySphere' : unreferenced local variable
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\jeu3d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\jeu3d.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\jeu3d.lib" /MACHINE:X86 /SAFESEH Debug\camera.obj
+         Debug\debug.obj
+         Debug\input.obj
+         Debug\load.obj
+         Debug\main.obj
+         Debug\ogl.obj
+         Debug\point.obj
+         Debug\quaternion.obj
+         Debug\timer.obj
+         Debug\window.obj
+         jeu3d.vcxproj -> D:\curriculum\TSP_troisimeAnnee\JIN\OpenGL\ProjetOpenGL_SiqunPAN\PROJET JEU Empty\projet\Debug\jeu3d.exe
+     1>Done Building Project "D:\curriculum\TSP_troisimeAnnee\JIN\OpenGL\ProjetOpenGL_SiqunPAN\PROJET JEU Empty\projet\jeu3d.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.39
